@@ -44,13 +44,9 @@ A dark color theme for Konsole inspired by futuristic holo tech, comprised mainl
 
 ## Preview
 
-![NiTROUS-Dark Preview Image](images/nitrous-plasma-colors-preview-01.png)
+![NiTROUS-Dark Preview Image](images/nitrous-konsole-preview-01.png)
 
-![NiTROUS-Dark Preview Image](images/nitrous-plasma-colors-preview-02.png)
-
-![NiTROUS-Dark Preview Image](images/nitrous-plasma-colors-preview-04.png)
-
-![NiTROUS-Dark Preview Image](images/nitrous-plasma-colors-preview-03.png)
+![NiTROUS-Dark Preview Image](images/nitrous-konsole-preview-02.png)
 
 ## Thanks!
 
