@@ -14,13 +14,13 @@ RandomHueRange=360
 RandomSaturationRange=100
 
 [Color0]
-Color=19,19,48
+Color=255,255,0
 
 [Color0Faint]
-Color=12,12,31
+Color=255,255,127
 
 [Color0Intense]
-Color=35,35,88
+Color=195,195,0
 
 [Color1]
 Color=226,59,209
@@ -106,6 +106,7 @@ Blur=true
 ColorRandomization=false
 Description=NiTROUS-Dark
 FillStyle=Tile
-Opacity=0.9
-Wallpaper=
-WallpaperOpacity=1
+Opacity=1
+Wallpaper=/home/scar45/Design/PCB/pcb-logon.png
+WallpaperFlipType=NoFlip
+WallpaperOpacity=0.19
